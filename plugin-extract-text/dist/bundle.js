@@ -105,7 +105,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./plug
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _estilos_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./estilos.css */ \"./plugin-extract-text/estilos.css\");\n/* harmony import */ var _estilos_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_estilos_css__WEBPACK_IMPORTED_MODULE_0__);\n\n\ndocument.write(\"Hola Mundo\");\nconsole.log('hola mundo desde webpack');\n\n\n//# sourceURL=webpack:///./plugin-extract-text/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _estilos_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./estilos.css */ \"./plugin-extract-text/estilos.css\");\n/* harmony import */ var _estilos_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_estilos_css__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\ndocument.write(\"Hola Mundo\");\r\nconsole.log('hola mundo desde webpack');\r\n\n\n//# sourceURL=webpack:///./plugin-extract-text/index.js?");
 
 /***/ })
 

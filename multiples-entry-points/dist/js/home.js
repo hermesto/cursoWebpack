@@ -81,7 +81,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./multiples-entry-points/src/js/contacto.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./multiples-entry-points/src/js/index.js");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -97,15 +97,15 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./mult
 
 /***/ }),
 
-/***/ "./multiples-entry-points/src/js/contacto.js":
-/*!***************************************************!*\
-  !*** ./multiples-entry-points/src/js/contacto.js ***!
-  \***************************************************/
+/***/ "./multiples-entry-points/src/js/index.js":
+/*!************************************************!*\
+  !*** ./multiples-entry-points/src/js/index.js ***!
+  \************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_estilos_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../css/estilos.css */ \"./multiples-entry-points/src/css/estilos.css\");\n/* harmony import */ var _css_estilos_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_estilos_css__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\ndocument.write(\"Hola Mundo desde contacto\");\r\nconsole.log('hola mundo desde webpack');\r\n\n\n//# sourceURL=webpack:///./multiples-entry-points/src/js/contacto.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_estilos_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../css/estilos.css */ \"./multiples-entry-points/src/css/estilos.css\");\n/* harmony import */ var _css_estilos_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_estilos_css__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\ndocument.write(\"Hola Mundo desde la home\");\r\nconsole.log('hola mundo desde webpack');\r\n\n\n//# sourceURL=webpack:///./multiples-entry-points/src/js/index.js?");
 
 /***/ })
 
