@@ -1,4 +1,4 @@
 import '../css/estilos.css'
 
-document.write("Hola Mundo desde la home");
+document.write("este es un cambio");
 console.log('hola mundo desde webpack');
