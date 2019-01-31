@@ -1,5 +1,5 @@
 import './estilos.css'
-import {firstMessage, delayedMessage} from './message.js'
+import { firstMessage, delayedMessage } from './message.js'
 
 document.write(firstMessage);
 delayedMessage();
